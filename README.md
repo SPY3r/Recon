@@ -3,6 +3,7 @@ The tool is gathering subdomains, port open for the domains supplied
 
 
 Pre-requisite
+
 The tool uses the following recon tools for scanning:
 1. Naabu - https://github.com/projectdiscovery/naabu
 2. httpx - https://github.com/projectdiscovery/httpx
